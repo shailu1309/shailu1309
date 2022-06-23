@@ -9,8 +9,3 @@ I am a Data Scientist with skills in Machine Learning, Deep Learning, and NLP. I
 - 👯 I’m looking to collaborate on Deep Learning Projects
 - 💬 Ask me about Anything :smile:
 - 😄 Pronouns: She/Her 
-
-Languages & Tools:
-
-![Github stats](https://github-readme-stats.vercel.app/api/top-langs/username=shailu1391&show_icons=true&theme=radical)
-
