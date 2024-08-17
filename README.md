@@ -6,7 +6,7 @@ I am a Data Scientist with skills in Machine Learning & Deep Learning. I have wo
 
 - 🔭 I’m currently working in AI/ML
 - 🌱 I’m currently learning GenAI concepts and working hands-on on usecases
-- I'm passionate about Computer Vision 
+- 🔥 I'm passionate about building Computer Vision models using CNN archietctures to solve engineering problems like damage detection, object deetction etc.,
 - 👯 I’m looking to collaborate on Deep Learning Projects
 - 💬 Ask me about How to get started in Data Science :smile:
 - 😄 Pronouns: She/Her 
